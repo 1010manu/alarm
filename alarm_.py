@@ -1,5 +1,4 @@
 import datetime
-from playsound import playsound
 Hour = int(input("Enter Hour: "))
 Min = int(input("Enter Minutes: "))
 ap = input("am / pm: ")
